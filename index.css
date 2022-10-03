@@ -14,8 +14,10 @@ body{
     background-color: #F4D1F0;
 　 }
 div{
+    background-color:#F3D68A;
+}
+p{
     position:absolute;
 　  top:80px;
 　  left:80px
 }
-
