@@ -12,9 +12,10 @@ h2{
 }
 body{
     background-color: #F4D1F0;
-　  position:absolute;
+　 }
+div{
+    position:absolute;
 　  top:80px;
 　  left:80px
 }
-
 
