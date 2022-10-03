@@ -1,4 +1,4 @@
-
+<style>
 .larger-image {
     width: 5px;
     height: 8px;
@@ -6,6 +6,7 @@
 .pink{
     color: pink;
 }
+</style>
 h2{
     color: orange;
 }
