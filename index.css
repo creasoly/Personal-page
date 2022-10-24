@@ -10,6 +10,13 @@
 h2{
     color: orange;
 }
+<button>{
+      color: white;
+      background-color: black;
+      border-radius: 10px;
+        border: 2px solid white;
+      padding: 10px 10px 8px 10px;
+      }
 body{
     background-color: #0B2846;
 　 }
